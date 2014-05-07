@@ -1,0 +1,78 @@
+# jemdoc: addcss{person.css}
+= Sameer Agarwal
+
+~~~
+{}{img_left}{sameerag.jpg}{125px}{125px}{Sameer Agarwal}
+[http://www.cs.berkeley.edu/~sameerag Sameer Agarwal], Graduate Student\n
+[https://amplab.cs.berkeley.edu/ Algorithms, Machines and People Lab]\n
+Email: [sameerag@cs.berkeley.edu]\n\n
+
+[http://www.eecs.berkeley.edu/Research/Areas/OSNT/ Operating Systems and Networking Group]\n
+#[http://www.eecs.berkeley.edu/ Department of Computer Science]\n
+[http://www.berkeley.edu/ University of California, Berkeley]\n
+Advisor: [http://www.cs.berkeley.edu/~istoica/ Ion Stoica]
+~~~
+
+== 
+I am a final year PhD student working with [http://www.cs.berkeley.edu/~istoica/ Prof. Ion Stoica] and [http://db.lcs.mit.edu/madden/ Prof. Sam Madden] on [http://blinkdb.cs.berkeley.edu BlinkDB], a database that guarantees sub-second query latencies on unbounded data by trading-off on the accuracy of results. In the recent past, I have also actively collaborated with [http://research.microsoft.com/~srikanth Dr. Srikanth Kandula] at [http://research.microsoft.com/en-us/labs/redmond/default.aspx Microsoft Research, Redmond] on [https://www.usenix.org/conference/nsdi12/reoptimizing-data-parallel-computing RoPE] (Re-Optimizer for Parallel Execution). RoPE optimizes parallel executions by leveraging a variety of runtime/intermediate data statistics and has been successfully deployed on production clusters at [http://www.bing.com Microsoft Bing]. I completed my undergraduate education from the [http://www.iitg.ernet.in/cse/ Department of Computer Science and Engineering] at the [http://www.iitg.ernet.in Indian Institute of Technology, Guwahati] in 2009 and was awarded the prestigious [http://www.telegraphindia.com/1090530/jsp/northeast/story_11037207.jsp President of India Gold Medal].
+
+I was supported by the [http://www.qualcomm.com/research/university-relations/innovation-fellowship-2012 Qualcomm Innovation Fellowship] during 2012-13 and am supported by the [https://www.facebook.com/notes/facebook-academics/announcing-the-2013-2014-facebook-graduate-fellows/514353405282738 Facebook Graduate Fellowship] during 2013-14.
+
+== Education
+- Ph.D., Computer Science, [http://www.eecs.berkeley.edu University of California, Berkeley],
+  Fall 2009 - Continuing
+- M.S., Computer Science, [http://www.eecs.berkeley.edu University of California, Berkeley],
+  Spring 2012
+- B.Tech. Computer Science and Engineering,
+  [http://www.iitg.ernet.in/cse Indian Institute of Technology, Guwahati], Spring 2009
+
+== Recent Publications
+- *Sameer Agarwal*, Henry Milner, Ariel Kleiner, Ameet Talwalkar, Michael Jordan, Samuel Madden, Barzan Mozafari, Ion Stoica. [mod282-agarwal.pdf *Knowing When You're Wrong: Building Fast and Reliable Approximate Query Processing Systems*]. [http://www.sigmod2014.org/ ACM SIGMOD 2014], Snowbird, Utah. 
+- Ariel Kleiner, Ameet Talwalkar, *Sameer Agarwal*, Ion Stoica, Michael Jordan. [boot_diag_kdd.pdf *A General Bootstrap Performance Diagnostic*]. [http://www.kdd.org/kdd2013/ ACM KDD 2013], Chicago, Illinois.
+- *Sameer Agarwal*, Barzan Mozafari, Aurojit Panda, Henry Milner, Samuel Madden, Ion Stoica. [blinkdb_eurosys13.pdf *BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data*]. [http://eurosys2013.tudos.org/ ACM EuroSys 2013], Prague, Czech Republic {{<FONT COLOR="red">(Best Paper Award)</FONT>}}. [http://blinkdb.cs.berkeley.edu/ Download Official Release (0.1)].
+- *Sameer Agarwal*, Aurojit Panda, Barzan Mozafari, Anand P. Iyer, Samuel Madden, Ion Stoica. [blinkdb_vldb12_demo.pdf *Blink and It’s Done: Interactive Queries on Very Large Data*] (Demonstration Paper). [http://www.vldb2012.org/ VLDB 2012], Istanbul, Turkey.
+- *Sameer Agarwal*, Srikanth Kandula, Nicolas Bruno, Ming-Chuan Wu, Ion Stoica, Jingren Zhou. [rope_nsdi12.pdf *Re-optimizing Data Parallel Computing*]. [https://www.usenix.org/conference/nsdi12/ USENIX NSDI 2012], San Jose, California.
+- *Sameer Agarwal*, Aurojit Panda, Barzan Mozafari, Samuel Madden, Ion Stoica. [blinkdb_nsdi12.pdf *BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data*] (Extended Abstract). [https://www.usenix.org/conference/nsdi12/ USENIX NSDI 2012], San Jose, California.
+- Nicolas Bruno, *Sameer Agarwal*, Srikanth Kandula, Bing Shi, Ming-Chuan Wu, Jingren Zhou. [scoperecurring_sigmod12.pdf *Recurring Job Optimization in Scope*]. [http://www.sigmod.org/2012/ ACM SIGMOD 2012], Scottsdale, Arizona.
+- Ganesh Ananthanarayanan, *Sameer Agarwal*, Srikanth Kandula, Albert Greenberg, Ion Stoica. Duke Harlan, Ed Harris. [scarlett_eurosys12.pdf *Scarlett: Coping with Skewed Content Popularity in MapReduce Clusters*]. [http://eurosys2011.cs.uni-salzburg.at/welcome.php ACM EuroSys 2011], Salzburg, Austria.
+- *Sameer Agarwal*, Mosharaf Chowdhury, Dilip Joseph, Ion Stoica. [lattice_ucb_tr.pdf *Lattice: A Scalable Layer-Agnostic Packet Classification Framework*],  [http://www.eecs.berkeley.edu/Pubs/TechRpts/ UC Berkeley Technical Report UCB/EECS-2011-96, Aug. 2011].
+- *Sameer Agarwal*, Dhruba Borthakur, Ion Stoica. [hdfs_snapshots_ucb_tr.pdf *Snapshots in the Hadoop Distributed File System*]. [http://www.eecs.berkeley.edu/Pubs/TechRpts/ UC Berkeley Technical Report UCB/EECS Mar. 2011].
+
+== Selected Talks
+- *BlinkDB: Fast Approximate Results over Big Data*. [http://gitpro.org/gitproworld2014/ GITPRO World Conference], Palo Alto, CA, USA. April 12th, 2014.
+- *Querying Petabytes of Data in Seconds*. [http://www.gopivotal.com/ Pivotal Inc.], Palo Alto, CA, USA. Mar 10th, 2014.
+- *Querying Petabytes of Data in Seconds*. [http://www.oracle.com/ Oracle Inc.], Redwood City, CA, USA. Feb 24th, 2014.
+- *Querying Petabytes of Data in Seconds*. [http://strataconf.com/strata2014/ O'Reilly Strata 2014], Santa Clara, CA, USA. Feb 13th, 2014.
+- *Approximating Queries with User Defined Functions*. [https://amplab.cs.berkeley.edu/ AMPLab Retreat], Lake Tahoe, CA, USA, Jan 6th, 2014.
+- *Deep Dive into BlinkDB: Querying Petabytes of Data in Seconds using Sampling*. [http://spark-summit.org/summit-2013/ Spark Summit 2013], San Francisco, CA, USA. Dec 2nd, 2013.
+- *BlinkDB: Approximate Queries on Very Large Data*. [http://strataconf.com/stratany2013/ O'Reilly Strata NY], New York City, NY, USA. Oct 28th, 2013.
+- *BlinkDB: Approximate Queries on Very Large Data*. [https://www.yahoo.com/ Yahoo Inc.]. Sunnyvale, CA, USA. Oct 16th, 2013.
+- *BlinkDB: Approximate Queries on Very Large Data*. [http://www.apple.com/ Apple Inc.]. Cupertino, CA, USA. Oct 15th, 2013.
+- *BlinkDB: Approximate Queries on Very Large Data*. [http://www.qualcomm.com/ Qualcomm Inc.]. San Diego, CA, USA. Sep 25th, 2013.
+- *Introduction to using BlinkDB*. [http://ampcamp.berkeley.edu/3/ AMP Camp 3]. Berkeley, CA, USA. August 30th, 2013.
+- *BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data*. [http://researcher.ibm.com/researcher/view_project.php?id=4545 IBM Research]. Yorktown Heights, NY USA, July 29th, 2013.
+- *BlinkDB and the Berkeley Data Analytics Stack*. [http://www.darpa.mil/Our_Work/I2O/Programs/XDATA.aspx DARPA XDATA], Washington D.C, USA. July 11th, 2013.
+- *BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data*. [http://www.symantec.com/about/profile/researchlabs.jsp Symantec Research], Mountain View, CA, USA. June 11th, 2013.
+- *BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data*. [http://eurosys2013.tudos.org/ ACM EuroSys], Prague, Czech Republic. April 15th, 2013.
+- *Approximate Queries on Very Large Data* (Mid-term Fellowship Presentation). [http://www.qualcomm.com/research Qualcomm Research], Santa Clara, CA, USA. April 12th, 2013.
+- *Approximating User-Defined Functions in BlinkDB*. [https://amplab.cs.berkeley.edu/ AMPLab Retreat], Lake Tahoe, CA, USA. Jan 15th, 2013.
+- *BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data*. [http://www.intel.com/content/www/us/en/research/intel-research.html Intel Research], Santa Clara, CA, USA. November 20th, 2012.
+- *BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data*. [http://www.linkedin.com/ LinkedIn], Mountain View, CA, USA. September 21st, 2012.
+- *BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data*. [http://www.hpl.hp.com/research/ HP Labs], Palo Alto, CA, USA. July 25th, 2012. [http://h30507.www3.hp.com/t5/Innovation-HP-Labs/BlinkDB-a-query-engine-for-making-perfect-decisions-in-the/ba-p/119303 HP Blog].
+- *BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data*. [http://www.twitter.com Twitter Inc.], San Francisco, CA, USA. July 20th, 2012.
+- *BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data*. [https://amplab.cs.berkeley.edu/ AMPLab Retreat], Santa Cruz, CA, USA. May 17th, 2012.
+- *BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data*. [http://www.qualcomm.com/about/research Qualcomm Research], San Diego, CA, USA. May 1st, 2012.
+- *Re-optimizing Data Parallel Computing*. [https://www.usenix.org/conference/nsdi12/ USENIX NSDI], San Jose, CA, USA. April 27th, 2012.
+- *QuicksilverDB: Interactive Queries on Very Large Data*. [https://amplab.cs.berkeley.edu/ AMPLab Retreat], Lake Tahoe, CA, USA. Jan 11th, 2012.
+- *The /Data/ in the Datacenter*. [http://research.microsoft.com Microsoft Research], Redmond, WA, USA. August 11th, 2011.
+- *Analyzing the Network Health of Google's Datacenters*. [http://www.google.com Google Inc.], Mountain View, CA, USA. August 16th, 2010.
+
+== Teaching
+- Fall 2010, [http://www-inst.eecs.berkeley.edu/~ee122/fa10/ EE 122: Introduction to Communication Networks] with [http://www.eecs.berkeley.edu/Faculty/Homepages/shenker.html Prof. Scott Shenker]
+- Fall 2013, [http://www-inst.eecs.berkeley.edu/~ee122/fa13/ EE 122: Introduction to Communication Networks] with [http://www.eecs.berkeley.edu/~sylvia/ Prof. Sylvia Ratnasamy]
+
+== Miscellaneous
+- My [http://en.wikipedia.org/wiki/Erd%C5%91s_number Erdos Number] is 3 (me -> [http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/g/Greenberg:Albert_G=.html Albert G. Greenberg] -> [http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/k/Koml=oacute=s:J=aacute=nos.html Janos Komlos] -> [http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/e/Erd=ouml=s:Paul.html Paul Erdos]).
+- My younger [http://cse.iitkgp.ac.in/~sagarwal/ brother] studies Computer Science at the [http://www.iitkgp.ac.in/ Indian Institute of Technology, Kharagpur].
+- I ran the [http://www.thesfmarathon.com/ 2012 San Francisco Half Marathon]  in 2:20:16 for [http://www.runforindia.org/runners/sameer AID Berkeley].
+#- I am running the [http://www.thesfmarathon.com/ 2012 San Francisco Half Marathon] and [http://www.runforindia.org/runners/sameer raising] funds to support the education of primary school children in rural India as part of [http://berkeley.aidindia.org/ AID Berkeley].
