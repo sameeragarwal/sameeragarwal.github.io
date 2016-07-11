@@ -13,21 +13,28 @@ Email: [sameerag@cs.berkeley.edu]\n\n
 Advisor: [http://www.cs.berkeley.edu/~istoica/ Ion Stoica]
 ~~~
 
-== 
-I am a final year PhD student working with [http://www.cs.berkeley.edu/~istoica/ Prof. Ion Stoica] and [http://db.lcs.mit.edu/madden/ Prof. Sam Madden] on [http://blinkdb.cs.berkeley.edu BlinkDB], a database that guarantees sub-second query latencies on unbounded data by trading-off on the accuracy of results. In the recent past, I have also actively collaborated with [http://research.microsoft.com/~srikanth Dr. Srikanth Kandula] at [http://research.microsoft.com/en-us/labs/redmond/default.aspx Microsoft Research, Redmond] on [https://www.usenix.org/conference/nsdi12/reoptimizing-data-parallel-computing RoPE] (Re-Optimizer for Parallel Execution). RoPE optimizes parallel executions by leveraging a variety of runtime/intermediate data statistics and has been successfully deployed on production clusters at [http://www.bing.com Microsoft Bing]. I completed my undergraduate education from the [http://www.iitg.ernet.in/cse/ Department of Computer Science and Engineering] at the [http://www.iitg.ernet.in Indian Institute of Technology, Guwahati] in 2009 and was awarded the prestigious [http://www.telegraphindia.com/1090530/jsp/northeast/story_11037207.jsp President of India Gold Medal].
+~~~
+Note: I successfully defended my thesis in May'14 and am now at [https://databricks.com/ Databricks Inc.] I can be reached via email at [mailto:sameer@databricks.com sameer@databricks.com].
+~~~
 
-I was supported by the [http://www.qualcomm.com/research/university-relations/innovation-fellowship-2012 Qualcomm Innovation Fellowship] during 2012-13 and am supported by the [https://www.facebook.com/notes/facebook-academics/announcing-the-2013-2014-facebook-graduate-fellows/514353405282738 Facebook Graduate Fellowship] during 2013-14.
+== 
+I have a PhD in Databases from UC Berkeley AMPLab where I worked with [http://www.cs.berkeley.edu/~istoica/ Prof. Ion Stoica] and [http://db.lcs.mit.edu/madden/ Prof. Sam Madden]. During the course of my PhD, I led the research, design and development of [http://blinkdb.cs.berkeley.edu BlinkDB], an open-sourced, massively parallel, approximate query processing framework that guarantees sub-second query latencies on unbounded data by trading-off on the accuracy of results. Before that, I also actively collaborated with [http://research.microsoft.com/~srikanth Dr. Srikanth Kandula] at [http://research.microsoft.com/en-us/labs/redmond/default.aspx Microsoft Research, Redmond] on [https://www.usenix.org/conference/nsdi12/reoptimizing-data-parallel-computing RoPE] (Re-Optimizer for Parallel Execution). RoPE optimizes parallel executions by leveraging a variety of runtime/intermediate data statistics and has been successfully deployed on production clusters at [http://www.bing.com Microsoft Bing]. I completed my undergraduate education from the Department of [http://www.iitg.ernet.in/cse/ Department of Computer Science and Engineering] at the [http://www.iitg.ernet.in Indian Institute of Technology, Guwahati], Guwahati in 2009 and was awarded the prestigious [http://www.telegraphindia.com/1090530/jsp/northeast/story_11037207.jsp President of India Gold Medal].
+
+I was supported by the [https://www.qualcomm.com/invention/research/university-relations/innovation-fellowship/winners Qualcomm Innovation Fellowship] during 2012-13 and am supported by the [https://www.facebook.com/notes/facebook-academics/announcing-the-2013-2014-facebook-graduate-fellows/514353405282738 Facebook Graduate Fellowship] during 2013-14.
 
 == Education
 - Ph.D., Computer Science, [http://www.eecs.berkeley.edu University of California, Berkeley],
-  Fall 2009 - Continuing
+  May 2014
 - M.S., Computer Science, [http://www.eecs.berkeley.edu University of California, Berkeley],
-  Spring 2012
+  May 2012
 - B.Tech. Computer Science and Engineering,
-  [http://www.iitg.ernet.in/cse Indian Institute of Technology, Guwahati], Spring 2009
+  [http://www.iitg.ernet.in/cse Indian Institute of Technology, Guwahati], May 2009
 
 == Recent Publications
-- *Sameer Agarwal*, Henry Milner, Ariel Kleiner, Ameet Talwalkar, Michael Jordan, Samuel Madden, Barzan Mozafari, Ion Stoica. [mod282-agarwal.pdf *Knowing When You're Wrong: Building Fast and Reliable Approximate Query Processing Systems*]. [http://www.sigmod2014.org/ ACM SIGMOD 2014], Snowbird, Utah. 
+- Kai Zeng, *Sameer Agarwal*, and Ion Stoica. [iolap_sigmod16.pdf *iOLAP: Incremental OLAP for Interactive Analysis on Big Data*]. [http://www.sigmod2016.org/ ACM SIGMOD 2016], San Francisco, California.
+- Kai Zeng, *Sameer Agarwal*, Ankur Dave, Michael Armbrust and Ion Stoica. [gola_sigmod15.pdf *G-OLA: Generalized Online Aggregation for Interactive Analysis on Big Data*]. [http://www.sigmod2015.org/ ACM SIGMOD 2015], Melbourne, Australia.
+- *Sameer Agarwal*, Henry Milner, Ariel Kleiner, Ameet Talwalkar, Michael Jordan, Samuel Madden, Barzan Mozafari, Ion Stoica. [mod282-agarwal.pdf *Knowing When You're Wrong: Building Fast and Reliable Approximate Query Processing Systems*]. [http://www.sigmod2014.org/ ACM SIGMOD 2014], Snowbird, Utah.
+- Jun Suzuki, Shivaram Venkataraman, *Sameer Agarwal*, Michael Franklin, Ion Stoica. [BPOE_SSD.pdf *Record Placement Based on Data Skew Using Solid State Drives*]. [http://prof.ict.ac.cn/bpoe_5_vldb/ VLDB BPOE-5 2014], Hangzhou, China {{<FONT COLOR="red">(Best Paper Award)</FONT>}}.
 - Ariel Kleiner, Ameet Talwalkar, *Sameer Agarwal*, Ion Stoica, Michael Jordan. [boot_diag_kdd.pdf *A General Bootstrap Performance Diagnostic*]. [http://www.kdd.org/kdd2013/ ACM KDD 2013], Chicago, Illinois.
 - *Sameer Agarwal*, Barzan Mozafari, Aurojit Panda, Henry Milner, Samuel Madden, Ion Stoica. [blinkdb_eurosys13.pdf *BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data*]. [http://eurosys2013.tudos.org/ ACM EuroSys 2013], Prague, Czech Republic {{<FONT COLOR="red">(Best Paper Award)</FONT>}}. [http://blinkdb.cs.berkeley.edu/ Download Official Release (0.1)].
 - *Sameer Agarwal*, Aurojit Panda, Barzan Mozafari, Anand P. Iyer, Samuel Madden, Ion Stoica. [blinkdb_vldb12_demo.pdf *Blink and It’s Done: Interactive Queries on Very Large Data*] (Demonstration Paper). [http://www.vldb2012.org/ VLDB 2012], Istanbul, Turkey.
